@@ -4,6 +4,13 @@
 
 这是「生晟AI工坊」里的第一件开源工具。
 
+## 仓库地址
+
+两个仓库内容一样，随便挑一个下载，国内访问 Gitee 更快：
+
+- GitHub：`https://github.com/Jason750424/guandan-solo`
+- Gitee 镜像：`https://gitee.com/lidongsheng789/guandan-solo`
+
 ## 这是什么
 
 - 单机四家掼蛋，你打一家，另外三家由程序接手。
