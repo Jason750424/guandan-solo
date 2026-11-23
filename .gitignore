@@ -1,0 +1,35 @@
+# 密钥与环境变量
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# 缓存与临时文件
+__pycache__/
+*.pyc
+.cache/
+*.tmp
+*.log
+
+# 复盘日志（含牌局数据，本地产生，不入库）
+*复盘日志*
+*.jsonl
+
+# 历史版本与备份
+_历史版本/
+*.bak
+
+# 虚拟环境
+venv/
+.venv/
+node_modules/
+
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+
+# 系统文件
+Thumbs.db
+.DS_Store
